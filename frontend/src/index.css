@@ -167,3 +167,19 @@
     50% { box-shadow: 0 0 30px hsl(var(--accent) / 0.6); }
   }
 }
+
+/* animation video of home page */
+
+@keyframes slide {
+  0% { transform: translateX(0%); }
+  33% { transform: translateX(-100%); }
+  66% { transform: translateX(-200%); }
+  100% { transform: translateX(0%); }
+}
+
+.animate-slide {
+  width: 300%; /* total slides */
+  display: flex;
+  animation: slide 12s infinite ease-in-out;
+}
+
