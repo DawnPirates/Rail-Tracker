@@ -31,8 +31,8 @@ const Services = () => {
     },
     {
       icon: Smartphone,
-      title: "Mobile App",
-      description: "Download our mobile app for booking and tracking on the go with offline support."
+      title: "Mobile Interface",
+      description: "Book and track on the go with Android support and online assistance."
     }
   ];
 
