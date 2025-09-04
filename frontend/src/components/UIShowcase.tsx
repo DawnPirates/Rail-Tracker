@@ -94,7 +94,7 @@ const UIShowcase = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button className="btn-railway-accent text-lg px-8 py-4">
-              Download Mobile App
+              Book Your Ticket Now
             </Button>
             <Button variant="outline" className="text-primary-foreground border-primary-foreground hover:bg-primary-foreground hover:text-primary text-lg px-8 py-4">
               View Demo
