@@ -19,7 +19,7 @@ const Header = () => {
           <div className="bg-accent rounded-full p-2">
             <Train className="w-6 h-6 text-accent-foreground" />
           </div>
-          <h1 className="text-2xl font-bold">RailTracker</h1>
+          <h1 className="text-2xl font-bold">RailYatra</h1>
         </div>
         
         <nav className="hidden md:flex items-center space-x-8">

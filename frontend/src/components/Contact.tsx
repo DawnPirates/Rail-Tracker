@@ -26,7 +26,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Call Us</h3>
-                    <p className="text-muted-foreground">+91 1800-XXX-XXXX</p>
+                    <p className="text-muted-foreground">+91 1800-1616-1975</p>
                     <p className="text-sm text-muted-foreground">24/7 Support Available</p>
                   </div>
                 </div>
@@ -41,7 +41,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Email Us</h3>
-                    <p className="text-muted-foreground">support@railtracker.com</p>
+                    <p className="text-muted-foreground">support@railyatra.com</p>
                     <p className="text-sm text-muted-foreground">Quick Response Guaranteed</p>
                   </div>
                 </div>

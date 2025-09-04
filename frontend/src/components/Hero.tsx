@@ -149,7 +149,7 @@ const Hero = () => {
           </h1>
 
           <p className="text-xl text-primary-foreground/90 mb-8 leading-relaxed">
-            RailTracker is your all-in-one platform to{" "}
+            RailYatra is your all-in-one platform to{" "}
             <span className="text-accent font-semibold">book tickets</span>,{" "}
             <span className="text-accent font-semibold">track trains live</span>, and get real-time updates—making your travel safe and stress-free.
           </p>
